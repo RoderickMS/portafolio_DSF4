@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Roder\\Documentos\\portafolio\\proyectos\\universidadDeChiriqu\u00ED\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8210B9C5-FFC6-45EF-81DD-5E80B78FB58B}|universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj|c:\\users\\roder\\documentos\\portafolio\\proyectos\\universidaddechiriqu\u00ED\\universidaddechiriqu\u00ED\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8210B9C5-FFC6-45EF-81DD-5E80B78FB58B}|universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj|solutionrelative:universidaddechiriqu\u00ED\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8210B9C5-FFC6-45EF-81DD-5E80B78FB58B}|universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj|c:\\users\\roder\\documentos\\portafolio\\proyectos\\universidaddechiriqu\u00ED\\universidaddechiriqu\u00ED\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8210B9C5-FFC6-45EF-81DD-5E80B78FB58B}|universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj|solutionrelative:universidaddechiriqu\u00ED\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8210B9C5-FFC6-45EF-81DD-5E80B78FB58B}|universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj|c:\\users\\roder\\documentos\\portafolio\\proyectos\\universidaddechiriqu\u00ED\\universidaddechiriqu\u00ED\\views\\home\\gobernabilidad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8210B9C5-FFC6-45EF-81DD-5E80B78FB58B}|universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj|solutionrelative:universidaddechiriqu\u00ED\\views\\home\\gobernabilidad.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8210B9C5-FFC6-45EF-81DD-5E80B78FB58B}|universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj|c:\\users\\roder\\documentos\\portafolio\\proyectos\\universidaddechiriqu\u00ED\\universidaddechiriqu\u00ED\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8210B9C5-FFC6-45EF-81DD-5E80B78FB58B}|universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj|solutionrelative:universidaddechiriqu\u00ED\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8210B9C5-FFC6-45EF-81DD-5E80B78FB58B}|universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj|c:\\users\\roder\\documentos\\portafolio\\proyectos\\universidaddechiriqu\u00ED\\universidaddechiriqu\u00ED\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8210B9C5-FFC6-45EF-81DD-5E80B78FB58B}|universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj|solutionrelative:universidaddechiriqu\u00ED\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8210B9C5-FFC6-45EF-81DD-5E80B78FB58B}|universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj|c:\\users\\roder\\documentos\\portafolio\\proyectos\\universidaddechiriqu\u00ED\\universidaddechiriqu\u00ED\\universidaddechiriqu\u00ED.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8210B9C5-FFC6-45EF-81DD-5E80B78FB58B}|universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj|solutionrelative:universidaddechiriqu\u00ED\\universidaddechiriqu\u00ED.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Roder\\Documentos\\portafolio\\proyectos\\universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "universidadDeChiriqu\u00ED\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Roder\\Documentos\\portafolio\\proyectos\\universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "universidadDeChiriqu\u00ED\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T05:00:31.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "gobernabilidad.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roder\\Documentos\\portafolio\\proyectos\\universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED\\Views\\Home\\gobernabilidad.cshtml",
+              "RelativeDocumentMoniker": "universidadDeChiriqu\u00ED\\Views\\Home\\gobernabilidad.cshtml",
+              "ToolTip": "C:\\Users\\Roder\\Documentos\\portafolio\\proyectos\\universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED\\Views\\Home\\gobernabilidad.cshtml",
+              "RelativeToolTip": "universidadDeChiriqu\u00ED\\Views\\Home\\gobernabilidad.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T04:55:06.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roder\\Documentos\\portafolio\\proyectos\\universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "universidadDeChiriqu\u00ED\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Roder\\Documentos\\portafolio\\proyectos\\universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "universidadDeChiriqu\u00ED\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBkAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T02:09:51.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roder\\Documentos\\portafolio\\proyectos\\universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "universidadDeChiriqu\u00ED\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Roder\\Documentos\\portafolio\\proyectos\\universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "universidadDeChiriqu\u00ED\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T02:01:10.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Roder\\Documentos\\portafolio\\proyectos\\universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "universidadDeChiriqu\u00ED\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Roder\\Documentos\\portafolio\\proyectos\\universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "universidadDeChiriqu\u00ED\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T02:03:33.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "universidadDeChiriqu\u00ED.csproj",
+              "DocumentMoniker": "C:\\Users\\Roder\\Documentos\\portafolio\\proyectos\\universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj",
+              "RelativeDocumentMoniker": "universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj",
+              "ToolTip": "C:\\Users\\Roder\\Documentos\\portafolio\\proyectos\\universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj",
+              "RelativeToolTip": "universidadDeChiriqu\u00ED\\universidadDeChiriqu\u00ED.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-02T01:51:59.005Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

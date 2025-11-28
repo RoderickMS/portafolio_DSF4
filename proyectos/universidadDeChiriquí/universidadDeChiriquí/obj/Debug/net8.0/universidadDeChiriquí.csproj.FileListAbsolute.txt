@@ -1,0 +1,68 @@
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\appsettings.json
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\universidadDeChiriquí.staticwebassets.runtime.json
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\universidadDeChiriquí.staticwebassets.endpoints.json
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\universidadDeChiriquí.exe
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\universidadDeChiriquí.deps.json
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\universidadDeChiriquí.runtimeconfig.json
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\universidadDeChiriquí.dll
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\universidadDeChiriquí.pdb
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.AssemblyInfoInputs.cache
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.AssemblyInfo.cs
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.csproj.CoreCompileInputs.cache
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.RazorAssemblyInfo.cache
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.RazorAssemblyInfo.cs
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\scopedcss\bundle\universidadDeChiriquí.styles.css
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\scopedcss\projectbundle\universidadDeChiriquí.bundle.scp.css
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets\msbuild.universidadDeChiriquí.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets\msbuild.universidadDeChiriquí.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets\msbuild.build.universidadDeChiriquí.props
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.universidadDeChiriquí.props
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.universidadDeChiriquí.props
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.dll
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\refint\universidadDeChiriquí.dll
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.pdb
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.genruntimeconfig.cache
+C:\Users\Roder\Documentos\UNIVERSIDAD\Año 2\Semestre_2\Desarrollo de Software IV\Microsoft Visual Studio\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\ref\universidadDeChiriquí.dll
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\appsettings.json
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\universidadDeChiriquí.staticwebassets.endpoints.json
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\universidadDeChiriquí.staticwebassets.runtime.json
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\universidadDeChiriquí.exe
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\universidadDeChiriquí.deps.json
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\universidadDeChiriquí.runtimeconfig.json
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\universidadDeChiriquí.dll
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\bin\Debug\net8.0\universidadDeChiriquí.pdb
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.AssemblyInfoInputs.cache
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.AssemblyInfo.cs
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.csproj.CoreCompileInputs.cache
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.RazorAssemblyInfo.cache
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.RazorAssemblyInfo.cs
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\scopedcss\bundle\universidadDeChiriquí.styles.css
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\scopedcss\projectbundle\universidadDeChiriquí.bundle.scp.css
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets\msbuild.universidadDeChiriquí.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets\msbuild.universidadDeChiriquí.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets\msbuild.build.universidadDeChiriquí.props
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.universidadDeChiriquí.props
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.universidadDeChiriquí.props
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.dll
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\refint\universidadDeChiriquí.dll
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.pdb
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\universidadDeChiriquí.genruntimeconfig.cache
+C:\Users\Roder\Documentos\portafolio\proyectos\universidadDeChiriquí\universidadDeChiriquí\obj\Debug\net8.0\ref\universidadDeChiriquí.dll

@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyectos - Mi Portafolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <!-- Navegación -->
+    <nav class="navbar">
+        <div class="nav-container">
+            <div class="logo"><a href="index.html" style="text-decoration: none; color: inherit;">Mi Portafolio</a></div>
+            <ul class="nav-menu">
+                <li><a href="index.html" class="nav-link">Inicio</a></li>
+                <li><a href="sobre-mi.html" class="nav-link">Sobre mí</a></li>
+                <li><a href="proyectos.html" class="nav-link active">Proyectos</a></li>
+                <li><a href="habilidades.html" class="nav-link">Habilidades</a></li>
+                <li><a href="contacto.html" class="nav-link">Contacto</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Sección: Proyectos -->
+    <section class="section section-alt">
+        <div class="container">
+            <h2 class="section-title">Proyectos</h2>
+            <div class="projects-grid">
+                <div class="project-card pdf-project" onclick="openPDFViewer('proyectos/investigacion 1.pdf')">
+                    <div class="project-image">
+                        <i class="fas fa-file-pdf"></i>
+                    </div>
+                    <div class="project-content">
+                        <h3>Investigación 1</h3>
+                        <p>Documento de investigación. Haz clic para ver el PDF completo.</p>
+                        <div class="project-tech">
+                            <span class="tech-tag">PDF</span>
+                            <span class="tech-tag">Investigación</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="#" class="project-link" onclick="event.stopPropagation(); openPDFViewer('proyectos/investigacion 1.pdf'); return false;"><i class="fas fa-eye"></i> Ver PDF</a>
+                            <a href="proyectos/investigacion 1.pdf" class="project-link" target="_blank" onclick="event.stopPropagation();"><i class="fas fa-download"></i> Descargar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card pdf-project" onclick="openPDFViewer('proyectos/Investigacion 2.pdf')">
+                    <div class="project-image">
+                        <i class="fas fa-file-pdf"></i>
+                    </div>
+                    <div class="project-content">
+                        <h3>Investigación 2</h3>
+                        <p>Documento de investigación. Haz clic para ver el PDF completo.</p>
+                        <div class="project-tech">
+                            <span class="tech-tag">PDF</span>
+                            <span class="tech-tag">Investigación</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="#" class="project-link" onclick="event.stopPropagation(); openPDFViewer('proyectos/Investigacion 2.pdf'); return false;"><i class="fas fa-eye"></i> Ver PDF</a>
+                            <a href="proyectos/Investigacion 2.pdf" class="project-link" target="_blank" onclick="event.stopPropagation();"><i class="fas fa-download"></i> Descargar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card pdf-project" onclick="openPDFViewer('proyectos/taller practico 1.pdf')">
+                    <div class="project-image">
+                        <i class="fas fa-file-pdf"></i>
+                    </div>
+                    <div class="project-content">
+                        <h3>Taller Práctico 1</h3>
+                        <p>Documento de taller práctico. Haz clic para ver el PDF completo.</p>
+                        <div class="project-tech">
+                            <span class="tech-tag">PDF</span>
+                            <span class="tech-tag">Taller</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="#" class="project-link" onclick="event.stopPropagation(); openPDFViewer('proyectos/taller practico 1.pdf'); return false;"><i class="fas fa-eye"></i> Ver PDF</a>
+                            <a href="proyectos/taller practico 1.pdf" class="project-link" target="_blank" onclick="event.stopPropagation();"><i class="fas fa-download"></i> Descargar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card pdf-project" onclick="openPDFViewer('proyectos/taller practico 2.pdf')">
+                    <div class="project-image">
+                        <i class="fas fa-file-pdf"></i>
+                    </div>
+                    <div class="project-content">
+                        <h3>Taller Práctico 2</h3>
+                        <p>Documento de taller práctico. Haz clic para ver el PDF completo.</p>
+                        <div class="project-tech">
+                            <span class="tech-tag">PDF</span>
+                            <span class="tech-tag">Taller</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="#" class="project-link" onclick="event.stopPropagation(); openPDFViewer('proyectos/taller practico 2.pdf'); return false;"><i class="fas fa-eye"></i> Ver PDF</a>
+                            <a href="proyectos/taller practico 2.pdf" class="project-link" target="_blank" onclick="event.stopPropagation();"><i class="fas fa-download"></i> Descargar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card pdf-project" onclick="openPDFViewer('proyectos/laboratorio practico 1.pdf')">
+                    <div class="project-image">
+                        <i class="fas fa-file-pdf"></i>
+                    </div>
+                    <div class="project-content">
+                        <h3>Laboratorio Práctico 1</h3>
+                        <p>Documento de laboratorio práctico. Haz clic para ver el PDF completo.</p>
+                        <div class="project-tech">
+                            <span class="tech-tag">PDF</span>
+                            <span class="tech-tag">Laboratorio</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="#" class="project-link" onclick="event.stopPropagation(); openPDFViewer('proyectos/laboratorio practico 1.pdf'); return false;"><i class="fas fa-eye"></i> Ver PDF</a>
+                            <a href="proyectos/laboratorio practico 1.pdf" class="project-link" target="_blank" onclick="event.stopPropagation();"><i class="fas fa-download"></i> Descargar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card pdf-project" onclick="openPDFViewer('proyectos/laboratorio practico 2.pdf')">
+                    <div class="project-image">
+                        <i class="fas fa-file-pdf"></i>
+                    </div>
+                    <div class="project-content">
+                        <h3>Laboratorio Práctico 2</h3>
+                        <p>Documento de laboratorio práctico. Haz clic para ver el PDF completo.</p>
+                        <div class="project-tech">
+                            <span class="tech-tag">PDF</span>
+                            <span class="tech-tag">Laboratorio</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="#" class="project-link" onclick="event.stopPropagation(); openPDFViewer('proyectos/laboratorio practico 2.pdf'); return false;"><i class="fas fa-eye"></i> Ver PDF</a>
+                            <a href="proyectos/laboratorio practico 2.pdf" class="project-link" target="_blank" onclick="event.stopPropagation();"><i class="fas fa-download"></i> Descargar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card pdf-project" onclick="openPDFViewer('proyectos/ejercicio practico 1.pdf')">
+                    <div class="project-image">
+                        <i class="fas fa-file-pdf"></i>
+                    </div>
+                    <div class="project-content">
+                        <h3>Ejercicio Práctico 1</h3>
+                        <p>Documento de ejercicio práctico. Haz clic para ver el PDF completo.</p>
+                        <div class="project-tech">
+                            <span class="tech-tag">PDF</span>
+                            <span class="tech-tag">Ejercicio</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="#" class="project-link" onclick="event.stopPropagation(); openPDFViewer('proyectos/ejercicio practico 1.pdf'); return false;"><i class="fas fa-eye"></i> Ver PDF</a>
+                            <a href="proyectos/ejercicio practico 1.pdf" class="project-link" target="_blank" onclick="event.stopPropagation();"><i class="fas fa-download"></i> Descargar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card pdf-project" onclick="openPDFViewer('proyectos/parcial 1.pdf')">
+                    <div class="project-image">
+                        <i class="fas fa-file-pdf"></i>
+                    </div>
+                    <div class="project-content">
+                        <h3>Parcial 1</h3>
+                        <p>Documento de parcial. Haz clic para ver el PDF completo.</p>
+                        <div class="project-tech">
+                            <span class="tech-tag">PDF</span>
+                            <span class="tech-tag">Parcial</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="#" class="project-link" onclick="event.stopPropagation(); openPDFViewer('proyectos/parcial 1.pdf'); return false;"><i class="fas fa-eye"></i> Ver PDF</a>
+                            <a href="proyectos/parcial 1.pdf" class="project-link" target="_blank" onclick="event.stopPropagation();"><i class="fas fa-download"></i> Descargar</a>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="project-card pdf-project" onclick="openPDFViewer('proyectos/parcial 2.pdf')">
+                    <div class="project-image">
+                        <i class="fas fa-file-pdf"></i>
+                    </div>
+                    <div class="project-content">
+                        <h3>Parcial 2</h3>
+                        <p>Documento de parcial. Haz clic para ver el PDF completo.</p>
+                        <div class="project-tech">
+                            <span class="tech-tag">PDF</span>
+                            <span class="tech-tag">Parcial</span>
+                        </div>
+                        <div class="project-links">
+                            <a href="#" class="project-link" onclick="event.stopPropagation(); openPDFViewer('proyectos/parcial 2.pdf'); return false;"><i class="fas fa-eye"></i> Ver PDF</a>
+                            <a href="proyectos/parcial 2.pdf" class="project-link" target="_blank" onclick="event.stopPropagation();"><i class="fas fa-download"></i> Descargar</a>
+                        </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Mi Portafolio. Todos los derechos reservados.</p>
+        </div>
+    </footer>
+
+    <!-- Modal para visor de PDF -->
+    <div id="pdfModal" class="pdf-modal">
+        <div class="pdf-modal-content">
+            <div class="pdf-modal-header">
+                <h3 id="pdfModalTitle">Visor de PDF</h3>
+                <button class="pdf-modal-close" onclick="closePDFViewer()">
+                    <i class="fas fa-times"></i>
+                </button>
+            </div>
+            <div class="pdf-modal-body">
+                <iframe id="pdfViewer" src="" frameborder="0"></iframe>
+            </div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+    <script>
+        function openPDFViewer(pdfPath) {
+            const modal = document.getElementById('pdfModal');
+            const iframe = document.getElementById('pdfViewer');
+            iframe.src = pdfPath;
+            modal.style.display = 'flex';
+            document.body.style.overflow = 'hidden';
+        }
+
+        function closePDFViewer() {
+            const modal = document.getElementById('pdfModal');
+            const iframe = document.getElementById('pdfViewer');
+            modal.style.display = 'none';
+            iframe.src = '';
+            document.body.style.overflow = 'auto';
+        }
+
+        // Cerrar modal al hacer clic fuera del contenido
+        document.getElementById('pdfModal').addEventListener('click', function(e) {
+            if (e.target === this) {
+                closePDFViewer();
+            }
+        });
+
+        // Cerrar con tecla ESC
+        document.addEventListener('keydown', function(e) {
+            if (e.key === 'Escape') {
+                closePDFViewer();
+            }
+        });
+    </script>
+</body>
+</html>
